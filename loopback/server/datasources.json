@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "angularDS": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "test",
+    "password": "backloop3pw",
+    "name": "angularDS",
+    "user": "loopback",
+    "connector": "mysql"
   }
 }
